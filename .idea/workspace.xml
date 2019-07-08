@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/437.路径总和iii/437.路径总和iii.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/437.路径总和iii/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/235.二叉搜索树的最近公共祖先/235.二叉搜索树的最近公共祖先.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/235.二叉搜索树的最近公共祖先/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -19,15 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/111.二叉树的最小深度/src/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/226.翻转二叉树/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,11 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/437.路径总和iii/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="46" selection-start-line="46" selection-end-line="67" selection-end-column="1" />
+            <state relative-caret-position="495">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/235.二叉搜索树的最近公共祖先/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="679">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -150,6 +150,7 @@
         <option value="$PROJECT_DIR$/113.路径总和ii/src/Solution.java" />
         <option value="$PROJECT_DIR$/129.求根到叶子节点数字之和/src/Solution.java" />
         <option value="$PROJECT_DIR$/437.路径总和iii/src/Solution.java" />
+        <option value="$PROJECT_DIR$/235.二叉搜索树的最近公共祖先/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -185,25 +186,31 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeEveryDay" type="462c0819:PsiDirectoryNode" />
-              <item name="404.左叶子之和" type="462c0819:PsiDirectoryNode" />
+              <item name="226.翻转二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeEveryDay" type="462c0819:PsiDirectoryNode" />
-              <item name="404.左叶子之和" type="462c0819:PsiDirectoryNode" />
+              <item name="226.翻转二叉树" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeEveryDay" type="462c0819:PsiDirectoryNode" />
-              <item name="404.左叶子之和" type="462c0819:PsiDirectoryNode" />
+              <item name="226.翻转二叉树" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeEveryDay" type="462c0819:PsiDirectoryNode" />
-              <item name="437.路径总和iii" type="462c0819:PsiDirectoryNode" />
+              <item name="235.二叉搜索树的最近公共祖先" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeEveryDay" type="462c0819:PsiDirectoryNode" />
+              <item name="235.二叉搜索树的最近公共祖先" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -268,7 +275,7 @@
       <workItem from="1561985850323" duration="2894000" />
       <workItem from="1562146449590" duration="626000" />
       <workItem from="1562156739509" duration="641000" />
-      <workItem from="1562574542153" duration="14046000" />
+      <workItem from="1562574542153" duration="15164000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCodeEveryday">
       <created>1561986811012</created>
@@ -361,11 +368,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562591022247</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="LeetCodeEveryday">
+      <created>1562594821883</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1562594821883</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27192000" />
+    <option name="totallyTimeSpent" value="28310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -482,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/226.翻转二叉树/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-305">
@@ -550,8 +557,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/437.路径总和iii/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="46" selection-start-line="46" selection-end-line="67" selection-end-column="1" />
+        <state relative-caret-position="495">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/226.翻转二叉树/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/235.二叉搜索树的最近公共祖先/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
         </state>
       </provider>
     </entry>
