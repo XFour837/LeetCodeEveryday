@@ -24,15 +24,33 @@
  */
 class Solution {
 
+//    public int integerBreak(int n) {
+//        //dp[i] 表示第 i 被拆分之后得到乘积的最大值
+//        int[] dp = new int[n + 1];
+//        dp[2] = 1;
+//        for (int i = 3; i <= n; i++) {
+//            for (int j = 1; j < i; j++) {
+//                dp[i] = Math.max(dp[i], Math.max(j * (i - j), j * dp[i - j]));
+//            }
+//        }
+//        return dp[n];
+//    }
+
+    /**
+     * 状态：尝试在[1,x]的区间内满足题意
+     * 转移方程：f(x) = max{(v(1)*f(x-1),v1*(x-1)),(v(2)*f(x-2),v(2)*(x-2)),...,(v(x-1)*f(1),v(x-1)*v(1))}
+     */
     public int integerBreak(int n) {
-        //dp[i] 表示第 i 被拆分之后得到乘积的最大值
-        int[] dp = new int[n + 1];
+        if (n <= 2) return 1;
+        int[] dp = new int[n+1];
+        dp[1] = 1;
         dp[2] = 1;
         for (int i = 3; i <= n; i++) {
             for (int j = 1; j < i; j++) {
-                dp[i] = Math.max(dp[i], Math.max(j * (i - j), j * dp[i - j]));
+                dp[i] = Math.max(dp[i], Math.max(j * dp[i - j], j * (i - j)));
             }
         }
         return dp[n];
     }
+
 }
