@@ -29,20 +29,41 @@ import java.util.Arrays;
  *
  * 解题思路：动态规划
  * 状态：尝试偷取[x,n-1]区间内的房子获取一个最大值
- * 状态转移方程：f(0) = max{v(0) + f(2),v(1) + f(3),.....,v(n-3),f(n-1),v(n-2),v(n-1)}
+ * 状态转移方程：f(x) = max{v(x) + f(x+2),v(x+1) + f(x+3),.....,v(n-3) + f(n-1),v(n-2),v(n-1)}
+ */
+//class Solution {
+//    public int rob(int[] nums) {
+//        int n = nums.length;
+//        if (n == 0) return 0;
+//        int[] dp = new int[n];
+//        Arrays.fill(dp, -1);
+//        dp[n - 1] = nums[n - 1];
+//        for (int i = n-2; i >= 0; i--) {
+//            for (int j = i; j < n; j++) {
+//                dp[i] = Math.max(dp[i], nums[j] + ((j + 2) >= n ? 0 : dp[j + 2]));
+//            }
+//        }
+//        return dp[0];
+//    }
+//}
+
+
+/**
+ * 状态：考虑偷取从[0,x]区间内的房子
+ * 状态转移方程：f(x) = max{v(0),v(1),f(0) + v(2),f(1) + v(3),....,f(x-2) + v(x)}
+ * 思路：v的区间就是[0,x]，f即代表dp，在dp不存在于式子中的时候做特殊处理
  */
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
         if (n == 0) return 0;
         int[] dp = new int[n];
-        Arrays.fill(dp, -1);
-        dp[n - 1] = nums[n - 1];
-        for (int i = n-2; i >= 0; i--) {
-            for (int j = i; j < n; j++) {
-                dp[i] = Math.max(dp[i], nums[j] + ((j + 2) >= n ? 0 : dp[j + 2]));
+        dp[0] = nums[0];
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j <= i; j++) {
+                dp[i] = Math.max(dp[i], nums[j] + ((j - 2) >= 0 ? dp[j - 2] : 0));
             }
         }
-        return dp[0];
+        return dp[n - 1];
     }
 }
