@@ -7,7 +7,6 @@
  */
 class Solution {
     public void sortColors(int[] nums) {
-        if (nums.length == 0) return;
         int z = -1;
         int t = nums.length;
         for (int i = 0; i < t;) {
