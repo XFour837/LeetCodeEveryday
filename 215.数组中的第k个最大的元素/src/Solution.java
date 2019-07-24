@@ -7,12 +7,6 @@
  */
 class Solution {
 
-    public static void main(String[] args) {
-        int[] nums = {3, 2, 1, 5, 6, 4};
-        int res = new Solution().findKthLargest(nums, 2);
-        System.out.println(res);
-    }
-
     public int findKthLargest(int[] nums, int k) {
         if (nums.length == 0 || nums.length > k) return 0;
         int l = 0, h = nums.length - 1;
