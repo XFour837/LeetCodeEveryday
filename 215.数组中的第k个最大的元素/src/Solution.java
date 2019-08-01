@@ -8,13 +8,19 @@
 class Solution {
 
     public int findKthLargest(int[] nums, int k) {
-        if (nums.length == 0 || nums.length > k) return 0;
+        if (nums.length == 0 || nums.length > k) {
+            return 0;
+        }
         int l = 0, h = nums.length - 1;
         while (true) {
             int index = partition(nums, l, h);
-            if (index == k - 1) break;
-            else if (index < k - 1) l = index + 1;
-            else h = index - 1;
+            if (index == k - 1) {
+                break;
+            } else if (index < k - 1) {
+                l = index + 1;
+            } else {
+                h = index - 1;
+            }
         }
         return nums[k - 1];
     }
@@ -23,9 +29,11 @@ class Solution {
         int v = nums[l];
         int i = l, j = r + 1;
         while (true) {
-            while (i != r && nums[++i] > v);
-            while (j != l && nums[--j] < v);
-            if (i >= j) break;
+            while (i != r && nums[++i] > v){}
+            while (j != l && nums[--j] < v){}
+            if (i >= j) {
+                break;
+            }
             swap(nums, i, j);
         }
         swap(nums, l, j);
