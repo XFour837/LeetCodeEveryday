@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/202.快乐数/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/209.长度最小的子数组/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/290.单词规律/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/438.找到字符串中所有字母异位词/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.三数之和/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/205.同构字符串/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/146.LRU缓存机制/src/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/146.LRU缓存机制/src/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.两数之和/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.两数之和/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.三数之和/src/MySolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.三数之和/src/com/demo/Test.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../慕课网/Play-with-Algorithm-Interview" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -98,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LRUCache" />
       <module name="146.LRU缓存机制" />
@@ -106,9 +106,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="215.数组中的第k个最大的元素" />
+      <module name="15.三数之和" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +194,8 @@
       <workItem from="1565103465278" duration="6271000" />
       <workItem from="1565168331657" duration="1411000" />
       <workItem from="1565184988831" duration="5462000" />
-      <workItem from="1565411466183" duration="1765000" />
+      <workItem from="1565411466183" duration="2829000" />
+      <workItem from="1565621741704" duration="3976000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCodeEveryday">
       <created>1561986811012</created>
@@ -406,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564640589926</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="LeetCodeEveryday">
+      <created>1565413296602</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1565413296602</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
