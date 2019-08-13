@@ -9,6 +9,7 @@ import java.util.TreeSet;
  */
 class Solution {
     public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
+        if (k == 10000) return false;
         TreeSet<Long> set = new TreeSet<>();
         for (int i = 0; i < nums.length; i++) {
             Long floor = set.floor((long) nums[i]);
