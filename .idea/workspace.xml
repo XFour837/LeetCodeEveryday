@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/217.存在重复元素/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/220.存在重复元素iii/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/206.反转链表/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/83.删除排序链表中的重复元素/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/92.反转链表ii/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -95,14 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LRUCache" />
-      <module name="146.LRU缓存机制" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="15.三数之和" />
@@ -110,9 +104,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="92.反转链表ii" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="125.验证回文串" />
+      <module name="83.删除排序链表中的重复元素" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.LRUCache" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +194,7 @@
       <workItem from="1565184988831" duration="5462000" />
       <workItem from="1565411466183" duration="2829000" />
       <workItem from="1565621741704" duration="5490000" />
-      <workItem from="1565672584919" duration="7035000" />
+      <workItem from="1565672584919" duration="11724000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCodeEveryday">
       <created>1561986811012</created>
@@ -447,7 +448,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565708744116</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="LeetCodeEveryday">
+      <created>1565710391632</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1565710391632</updated>
+    </task>
+    <task id="LOCAL-00038" summary="LeetCodeEveryday">
+      <created>1565710485885</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1565710485885</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/2.两数相加/2.两数相加.iml" filepath="$PROJECT_DIR$/2.两数相加/2.两数相加.iml" />
       <module fileurl="file://$PROJECT_DIR$/202.快乐数/202.快乐数.iml" filepath="$PROJECT_DIR$/202.快乐数/202.快乐数.iml" />
       <module fileurl="file://$PROJECT_DIR$/205.同构字符串/205.同构字符串.iml" filepath="$PROJECT_DIR$/205.同构字符串/205.同构字符串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/206.反转链表/206.反转链表.iml" filepath="$PROJECT_DIR$/206.反转链表/206.反转链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/209.长度最小的子数组/209.长度最小的子数组.iml" filepath="$PROJECT_DIR$/209.长度最小的子数组/209.长度最小的子数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/213.打家劫舍ii/213.打家劫舍ii.iml" filepath="$PROJECT_DIR$/213.打家劫舍ii/213.打家劫舍ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/215.数组中的第k个最大的元素/215.数组中的第k个最大的元素.iml" filepath="$PROJECT_DIR$/215.数组中的第k个最大的元素/215.数组中的第k个最大的元素.iml" />
@@ -54,7 +55,9 @@
       <module fileurl="file://$PROJECT_DIR$/75.颜色分类/75.颜色分类.iml" filepath="$PROJECT_DIR$/75.颜色分类/75.颜色分类.iml" />
       <module fileurl="file://$PROJECT_DIR$/8.字符串转换整数/8.字符串转换整数.iml" filepath="$PROJECT_DIR$/8.字符串转换整数/8.字符串转换整数.iml" />
       <module fileurl="file://$PROJECT_DIR$/80.删除排序树组中的重复项ii/80.删除排序树组中的重复项ii.iml" filepath="$PROJECT_DIR$/80.删除排序树组中的重复项ii/80.删除排序树组中的重复项ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/83.删除排序链表中的重复元素/83.删除排序链表中的重复元素.iml" filepath="$PROJECT_DIR$/83.删除排序链表中的重复元素/83.删除排序链表中的重复元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/9.回文数/9.回文数.iml" filepath="$PROJECT_DIR$/9.回文数/9.回文数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/92.反转链表ii/92.反转链表ii.iml" filepath="$PROJECT_DIR$/92.反转链表ii/92.反转链表ii.iml" />
       <module fileurl="file://$PROJECT_DIR$/98.验证二叉搜索树/98.验证二叉搜索树.iml" filepath="$PROJECT_DIR$/98.验证二叉搜索树/98.验证二叉搜索树.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodeEveryDay.iml" filepath="$PROJECT_DIR$/LeetCodeEveryDay.iml" />
     </modules>
