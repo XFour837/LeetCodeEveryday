@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/219.存在重复元素ii/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/217.存在重复元素/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220.存在重复元素iii/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -192,7 +193,7 @@
       <workItem from="1565184988831" duration="5462000" />
       <workItem from="1565411466183" duration="2829000" />
       <workItem from="1565621741704" duration="5490000" />
-      <workItem from="1565672584919" duration="5478000" />
+      <workItem from="1565672584919" duration="7035000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCodeEveryday">
       <created>1561986811012</created>
@@ -439,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565707779582</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="LeetCodeEveryday">
+      <created>1565708744116</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1565708744116</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
