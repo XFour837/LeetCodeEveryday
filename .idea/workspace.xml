@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/71.简化路径/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/144.二叉树的前序遍历/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/94.二叉树的中序遍历/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -195,14 +196,7 @@
       <workItem from="1565672584919" duration="12129000" />
       <workItem from="1565769888666" duration="389000" />
       <workItem from="1565788343496" duration="14156000" />
-      <workItem from="1565854029911" duration="10027000" />
-    </task>
-    <task id="LOCAL-00008" summary="LeetCodeEveryday">
-      <created>1562581467071</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1562581467071</updated>
+      <workItem from="1565854029911" duration="12662000" />
     </task>
     <task id="LOCAL-00009" summary="LeetCodeEveryday">
       <created>1562581920787</created>
@@ -540,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565860253124</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="LeetCodeEveryday">
+      <created>1565881038919</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1565881038919</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

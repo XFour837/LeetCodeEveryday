@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/13.罗马数字转整数/13.罗马数字转整数.iml" filepath="$PROJECT_DIR$/13.罗马数字转整数/13.罗马数字转整数.iml" />
       <module fileurl="file://$PROJECT_DIR$/14.最长公共前缀/14.最长公共前缀.iml" filepath="$PROJECT_DIR$/14.最长公共前缀/14.最长公共前缀.iml" />
       <module fileurl="file://$PROJECT_DIR$/143.重排链表/143.重排链表.iml" filepath="$PROJECT_DIR$/143.重排链表/143.重排链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/144.二叉树的前序遍历/144.二叉树的前序遍历.iml" filepath="$PROJECT_DIR$/144.二叉树的前序遍历/144.二叉树的前序遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/146.LRU缓存机制/146.LRU缓存机制.iml" filepath="$PROJECT_DIR$/146.LRU缓存机制/146.LRU缓存机制.iml" />
       <module fileurl="file://$PROJECT_DIR$/147.对链表进行插入排序/147.对链表进行插入排序.iml" filepath="$PROJECT_DIR$/147.对链表进行插入排序/147.对链表进行插入排序.iml" />
       <module fileurl="file://$PROJECT_DIR$/15.三数之和/15.三数之和.iml" filepath="$PROJECT_DIR$/15.三数之和/15.三数之和.iml" />
@@ -74,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/86.分隔链表/86.分隔链表.iml" filepath="$PROJECT_DIR$/86.分隔链表/86.分隔链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/9.回文数/9.回文数.iml" filepath="$PROJECT_DIR$/9.回文数/9.回文数.iml" />
       <module fileurl="file://$PROJECT_DIR$/92.反转链表ii/92.反转链表ii.iml" filepath="$PROJECT_DIR$/92.反转链表ii/92.反转链表ii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/94.二叉树的中序遍历/94.二叉树的中序遍历.iml" filepath="$PROJECT_DIR$/94.二叉树的中序遍历/94.二叉树的中序遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/98.验证二叉搜索树/98.验证二叉搜索树.iml" filepath="$PROJECT_DIR$/98.验证二叉搜索树/98.验证二叉搜索树.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodeEveryDay.iml" filepath="$PROJECT_DIR$/LeetCodeEveryDay.iml" />
     </modules>
