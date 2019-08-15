@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/150.逆波兰表达式求值/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/71.简化路径/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -94,10 +94,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="83.删除排序链表中的重复元素" />
+      <module name="71.简化路径" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,14 +195,7 @@
       <workItem from="1565672584919" duration="12129000" />
       <workItem from="1565769888666" duration="389000" />
       <workItem from="1565788343496" duration="14156000" />
-      <workItem from="1565854029911" duration="6171000" />
-    </task>
-    <task id="LOCAL-00007" summary="LeetCodeEveryday">
-      <created>1562581099799</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1562581099799</updated>
+      <workItem from="1565854029911" duration="10027000" />
     </task>
     <task id="LOCAL-00008" summary="LeetCodeEveryday">
       <created>1562581467071</created>
@@ -540,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565856358471</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="LeetCodeEveryday">
+      <created>1565860253124</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1565860253124</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
