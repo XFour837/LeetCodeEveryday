@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/93.复原IP地址/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/113.分割回文串/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -94,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="71.简化路径" />
@@ -105,6 +105,13 @@
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="347.前K个高频元素" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="113.分割回文串" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,20 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="234.回文链表" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -200,14 +200,7 @@
       <workItem from="1565963377857" duration="667000" />
       <workItem from="1566026449167" duration="123000" />
       <workItem from="1566026590369" duration="35000" />
-      <workItem from="1566026629444" duration="2263000" />
-    </task>
-    <task id="LOCAL-00022" summary="LeetCodeEveryday">
-      <created>1562857517257</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1562857517257</updated>
+      <workItem from="1566026629444" duration="3049000" />
     </task>
     <task id="LOCAL-00023" summary="LeetCodeEveryday">
       <created>1563979270374</created>
@@ -545,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566026925406</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="LeetCodeEveryday">
+      <created>1566028922954</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1566028922954</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
