@@ -1,3 +1,10 @@
+/**
+ * Create with LeetCode
+ * User: 许清远
+ * Date: 2019/8/17
+ * Time: 15:28
+ * Description:
+ */
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.LinkedList;
@@ -36,3 +43,4 @@ class Solution {
         return dummy.next;
     }
 }
+
