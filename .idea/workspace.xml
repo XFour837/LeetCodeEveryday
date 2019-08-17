@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/78.子集/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/90.子集ii/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -200,14 +200,7 @@
       <workItem from="1565963377857" duration="667000" />
       <workItem from="1566026449167" duration="123000" />
       <workItem from="1566026590369" duration="35000" />
-      <workItem from="1566026629444" duration="13339000" />
-    </task>
-    <task id="LOCAL-00030" summary="LeetCodeEveryday">
-      <created>1564640589926</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1564640589926</updated>
+      <workItem from="1566026629444" duration="14080000" />
     </task>
     <task id="LOCAL-00031" summary="LeetCodeEveryday">
       <created>1565413296602</created>
@@ -545,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566043141117</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="LeetCodeEveryday">
+      <created>1566044069690</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1566044069690</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
