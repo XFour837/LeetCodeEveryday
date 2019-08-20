@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/279.完全平方数/src/SolutionGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/279.完全平方数/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/279.完全平方数/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/343.整数拆分/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/343.整数拆分/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/91.解码方法/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="130.被围绕的区域" />
@@ -103,9 +101,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="113.分割回文串" />
+      <module name="91.解码方法" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -204,14 +202,7 @@
       <workItem from="1566026629444" duration="28901000" />
       <workItem from="1566235533146" duration="1953000" />
       <workItem from="1566296449227" duration="1204000" />
-      <workItem from="1566308071915" duration="4885000" />
-    </task>
-    <task id="LOCAL-00039" summary="LeetCodeEveryday">
-      <created>1565715045641</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1565715045641</updated>
+      <workItem from="1566308071915" duration="6048000" />
     </task>
     <task id="LOCAL-00040" summary="LeetCodeEveryday">
       <created>1565715369855</created>
@@ -549,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566311541514</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="LeetCodeEveryday">
+      <created>1566315330762</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1566315330762</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,5 +584,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="LeetCodeEveryday" />
     <option name="LAST_COMMIT_MESSAGE" value="LeetCodeEveryday" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/91.解码方法/src/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
