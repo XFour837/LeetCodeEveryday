@@ -1,45 +1,26 @@
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.Arrays;
 
 /**
  * Create with LeetCode
  * User: 许清远
- * Date: 2019/8/16
- * Time: 13:21
+ * Date: 2019/8/20
+ * Time: 23:27
  * Description:
  */
 class Solution {
-
-    private class Node {
-        private int value;
-        private int step;
-
-        private Node(int value, int step) {
-            this.value = value;
-            this.step = step;
-        }
-    }
-
     public int numSquares(int n) {
-        if (n <= 0) return n;
-        Node root = new Node(n, 0);
-        Queue<Node> queue = new LinkedList<>();
-        queue.add(root);
-        boolean[] visited = new boolean[n + 1];
-        while (!queue.isEmpty()) {
-            Node node = queue.poll();
-            for (int i = 1;; i++) {
-                int num = node.value - i * i;
-                if (num == 0) {
-                    return node.step + 1;
-                }
+        if (n <= 1) return n;
+        int[] dp = new int[n + 1];
+        Arrays.fill(dp, Integer.MAX_VALUE);
+        dp[0] = 0;
+        dp[1] = 1;
+        for (int i = 2; i <= n; i++) {
+            for (int j = 1;; j++) {
+                int num = i - j * j;
                 if (num < 0) break;
-                if (!visited[num]) {
-                    queue.add(new Node(num, node.step + 1));
-                    visited[num] = true;
-                }
+                dp[i] = Math.min(dp[i], dp[num] + 1);
             }
         }
-        return -1;
+        return dp[n];
     }
 }

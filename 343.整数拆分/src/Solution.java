@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * Create with LeetCode
  * User: 许清远
@@ -41,11 +43,11 @@ class Solution {
      * 转移方程：f(x) = max{(v(1)*f(x-1),v1*(x-1)),(v(2)*f(x-2),v(2)*(x-2)),...,(v(x-1)*f(1),v(x-1)*v(1))}
      */
     public int integerBreak(int n) {
-        if (n <= 2) return 1;
-        int[] dp = new int[n+1];
+        int[] dp = new int[n + 1];
+        Arrays.fill(dp, -1);
+        dp[0] = 0;
         dp[1] = 1;
-        dp[2] = 1;
-        for (int i = 3; i <= n; i++) {
+        for (int i = 2; i <= n; i++) {
             for (int j = 1; j < i; j++) {
                 dp[i] = Math.max(dp[i], Math.max(j * dp[i - j], j * (i - j)));
             }
