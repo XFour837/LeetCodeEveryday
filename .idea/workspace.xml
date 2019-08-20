@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/696.计数二进制子串/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/70.爬楼梯/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -203,6 +202,8 @@
       <workItem from="1566026590369" duration="35000" />
       <workItem from="1566026629444" duration="28901000" />
       <workItem from="1566235533146" duration="1953000" />
+      <workItem from="1566296449227" duration="1204000" />
+      <workItem from="1566308071915" duration="1098000" />
     </task>
     <task id="LOCAL-00037" summary="LeetCodeEveryday">
       <created>1565710391632</created>
