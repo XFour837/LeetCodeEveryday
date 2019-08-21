@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/309.最佳买股票的时机含冷冻期/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/416.分割等和子集/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -206,14 +206,7 @@
       <workItem from="1566296449227" duration="1204000" />
       <workItem from="1566308071915" duration="12539000" />
       <workItem from="1566366000931" duration="663000" />
-      <workItem from="1566393382626" duration="4391000" />
-    </task>
-    <task id="LOCAL-00045" summary="LeetCodeEveryday">
-      <created>1565793925616</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1565793925616</updated>
+      <workItem from="1566393382626" duration="6204000" />
     </task>
     <task id="LOCAL-00046" summary="LeetCodeEveryday">
       <created>1565794770715</created>
@@ -551,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566323112631</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="LeetCodeEveryday">
+      <created>1566397935589</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1566397935591</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
