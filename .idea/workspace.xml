@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/376.摆动序列/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/455.分发饼干/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/392.判断子序列/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/216.组合总和iii/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/216.组合总和iii/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,14 +208,13 @@
       <workItem from="1566308071915" duration="12539000" />
       <workItem from="1566366000931" duration="663000" />
       <workItem from="1566393382626" duration="10114000" />
-      <workItem from="1566450754459" duration="10395000" />
-    </task>
-    <task id="LOCAL-00052" summary="LeetCodeEveryday">
-      <created>1565801900526</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1565801900526</updated>
+      <workItem from="1566450754459" duration="10956000" />
+      <workItem from="1566545849589" duration="4058000" />
+      <workItem from="1566605082988" duration="667000" />
+      <workItem from="1566610971763" duration="37000" />
+      <workItem from="1566611058445" duration="3975000" />
+      <workItem from="1566646024726" duration="31000" />
+      <workItem from="1566744284597" duration="449000" />
     </task>
     <task id="LOCAL-00053" summary="LeetCodeEveryday">
       <created>1565802578906</created>
@@ -553,7 +552,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566491455246</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="LeetCodeEveryday">
+      <created>1566494318105</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1566494318106</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
