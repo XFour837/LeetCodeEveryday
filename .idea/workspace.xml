@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/204.计数质数/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/451.根据字符串出现频率排序/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/452.用最少数量的箭引爆气球/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/125.验证回文串/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/125.验证回文串/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,24 +97,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="130.被围绕的区域" />
+      <module name="451.根据字符串出现频率排序" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="91.解码方法" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="213.打家劫舍ii" />
+      <module name="452.用最少数量的箭引爆气球" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,20 +119,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="125.验证回文串" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="130.被围绕的区域" />
+      <module name="92.反转链表ii" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -213,14 +215,8 @@
       <workItem from="1566610971763" duration="37000" />
       <workItem from="1566611058445" duration="3975000" />
       <workItem from="1566646024726" duration="31000" />
-      <workItem from="1566744284597" duration="6761000" />
-    </task>
-    <task id="LOCAL-00058" summary="LeetCodeEveryday">
-      <created>1565885771584</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1565885771584</updated>
+      <workItem from="1566744284597" duration="10495000" />
+      <workItem from="1567084119356" duration="5098000" />
     </task>
     <task id="LOCAL-00059" summary="LeetCodeEveryday">
       <created>1565886226503</created>
@@ -558,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566750419915</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="LeetCodeEveryday">
+      <created>1566751550288</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1566751550288</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

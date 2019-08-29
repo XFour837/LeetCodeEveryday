@@ -8,25 +8,39 @@
 class Solution {
 
     public static void main(String[] args) {
-        new Solution().isPalindrome("A man, a plan, a canal: Panama");
+        new Solution().isPalindrome("0P");
     }
 
     public boolean isPalindrome(String s) {
-        if ("".equals(s)) return true;
-        char[] chars = s.toCharArray();
-        int l = 0, r = chars.length - 1;
-        while (l < r) {
-            if (chars[l] == chars[r]
-                    || Math.abs(chars[l] - chars[r]) == 32) {
-                while (!(('0' < chars[++l] &&  chars[l] < '9')
-                        || ('A' < chars[l] &&  chars[l] < 'Z')
-                        || ('a' < chars[l] &&  chars[l] < 'z')));
-                while (!(('0' < chars[++r] &&  chars[r] < '9')
-                        || ('A' < chars[r] &&  chars[r] < 'Z')
-                        || ('a' < chars[r] &&  chars[r] < 'z')));
+        if (s == null || s.length() <= 1) return true;
+        int length = s.length();
+        int l = 0, r = length - 1;
+        while (true) {
+            char cl = '-';
+            char cr = '-';
+            while (l < length) {
+                cl = s.charAt(l);
+                if (('a' <= cl && cl <= 'z')
+                        || ('A' <= cl && cl <= 'Z')) {
+                    break;
+                }
+                l++;
+            }
+            while (r >= 0) {
+                cr = s.charAt(r);
+                if (('a' <= cr && cr <= 'z')
+                        || ('A' <= cr && cr <= 'Z')) {
+                    break;
+                }
+                r--;
+            }
+            if (cl == cr || Math.abs(cl - cr) == 32 || (l == length && r == -1)) {
+                l++;
+                r--;
             } else {
                 return false;
             }
+            if (l > r) break;
         }
         return true;
     }
