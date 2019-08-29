@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/69.求开方/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/241.为运算表达式设计优先级/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/695.查找最大的连通面积/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/69.求开方/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/69.求开方/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -214,14 +216,8 @@
       <workItem from="1566611058445" duration="3975000" />
       <workItem from="1566646024726" duration="31000" />
       <workItem from="1566744284597" duration="10495000" />
-      <workItem from="1567084119356" duration="5518000" />
-    </task>
-    <task id="LOCAL-00060" summary="LeetCodeEveryday">
-      <created>1565887145351</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1565887145351</updated>
+      <workItem from="1567084119356" duration="6862000" />
+      <workItem from="1567102073099" duration="944000" />
     </task>
     <task id="LOCAL-00061" summary="LeetCodeEveryday">
       <created>1565887471134</created>
@@ -559,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567094253880</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="LeetCodeEveryday">
+      <created>1567094783026</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1567094783026</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
