@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/169.求众数/src/Solution.java" afterDir="false" />
+    <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="LeetCodeEveryday">
+      <change afterPath="$PROJECT_DIR$/139.单词拆分/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/221.最大正方形/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51.最大子序和/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../随便写写的JAVA/191027xunwu" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,14 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="452.用最少数量的箭引爆气球" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="69.求开方" />
@@ -123,6 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="139.单词拆分" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="37.解数独" />
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -228,14 +231,18 @@
       <workItem from="1568607072633" duration="47000" />
       <workItem from="1568607468281" duration="1323000" />
       <workItem from="1568620372421" duration="24000" />
-      <workItem from="1568787557593" duration="4112000" />
-    </task>
-    <task id="LOCAL-00073" summary="LeetCodeEveryday">
-      <created>1566030345119</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1566030345119</updated>
+      <workItem from="1568787557593" duration="7041000" />
+      <workItem from="1568880986260" duration="43000" />
+      <workItem from="1570895559768" duration="2064000" />
+      <workItem from="1571936452430" duration="309000" />
+      <workItem from="1571936802370" duration="106000" />
+      <workItem from="1571937356127" duration="333000" />
+      <workItem from="1571980715985" duration="48000" />
+      <workItem from="1571980811865" duration="2159000" />
+      <workItem from="1572011036577" duration="1771000" />
+      <workItem from="1572151365763" duration="1171000" />
+      <workItem from="1572606210569" duration="844000" />
+      <workItem from="1574344254125" duration="1785000" />
     </task>
     <task id="LOCAL-00074" summary="LeetCodeEveryday">
       <created>1566032227836</created>
@@ -573,7 +580,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568812180502</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="LeetCodeEveryday">
+      <created>1568812397446</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1568812397446</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
