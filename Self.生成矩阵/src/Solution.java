@@ -3,7 +3,7 @@
  * User: XFour
  * Date: 2019/11/22
  * Time: 15:57
- * Description: 给一个n，生成一个n*n的矩阵，矩阵最外面一圈是1，里面一圈是2，再里面是3，以此类推。
+ * Description: 给一个 N ，生成一个 N*N 的矩阵，矩阵最外面一圈是 1 ，里面一圈是 2 ，再里面是 3 ，以此类推。
  */
 public class Solution {
 
