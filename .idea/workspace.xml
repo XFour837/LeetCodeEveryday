@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Self.生成矩阵/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Self.生成矩阵/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,10 +94,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="69.求开方" />
+      <module name="Self.生成矩阵" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -238,14 +239,7 @@
       <workItem from="1572011036577" duration="1771000" />
       <workItem from="1572151365763" duration="1171000" />
       <workItem from="1572606210569" duration="844000" />
-      <workItem from="1574344254125" duration="3233000" />
-    </task>
-    <task id="LOCAL-00075" summary="LeetCodeEveryday">
-      <created>1566040065616</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1566040065616</updated>
+      <workItem from="1574344254125" duration="4040000" />
     </task>
     <task id="LOCAL-00076" summary="LeetCodeEveryday">
       <created>1566041984608</created>
@@ -583,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574346135008</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="LeetCodeEveryday">
+      <created>1574409648063</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1574409648063</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
