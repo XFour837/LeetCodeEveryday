@@ -150,6 +150,7 @@
       <module fileurl="file://$PROJECT_DIR$/94.二叉树的中序遍历/94.二叉树的中序遍历.iml" filepath="$PROJECT_DIR$/94.二叉树的中序遍历/94.二叉树的中序遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/98.验证二叉搜索树/98.验证二叉搜索树.iml" filepath="$PROJECT_DIR$/98.验证二叉搜索树/98.验证二叉搜索树.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodeEveryDay.iml" filepath="$PROJECT_DIR$/LeetCodeEveryDay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Self.生成矩阵/Self.生成矩阵.iml" filepath="$PROJECT_DIR$/Self.生成矩阵/Self.生成矩阵.iml" />
     </modules>
   </component>
 </project>

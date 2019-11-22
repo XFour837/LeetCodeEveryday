@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="LeetCodeEveryday">
-      <change afterPath="$PROJECT_DIR$/139.单词拆分/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/221.最大正方形/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51.最大子序和/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,14 +238,7 @@
       <workItem from="1572011036577" duration="1771000" />
       <workItem from="1572151365763" duration="1171000" />
       <workItem from="1572606210569" duration="844000" />
-      <workItem from="1574344254125" duration="1785000" />
-    </task>
-    <task id="LOCAL-00074" summary="LeetCodeEveryday">
-      <created>1566032227836</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1566032227836</updated>
+      <workItem from="1574344254125" duration="3233000" />
     </task>
     <task id="LOCAL-00075" summary="LeetCodeEveryday">
       <created>1566040065616</created>
@@ -587,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568812397446</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="LeetCodeEveryday">
+      <created>1574346135007</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1574346135008</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
