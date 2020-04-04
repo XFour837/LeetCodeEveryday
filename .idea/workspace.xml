@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/122.买卖股票的最佳时机ii/122.买卖股票的最佳时机ii.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/122.买卖股票的最佳时机ii/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/123.买卖股票的最佳时机iii/123.买卖股票的最佳时机iii.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/123.买卖股票的最佳时机iii/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/151.翻转字符串里的单词/151.翻转字符串里的单词.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/151.翻转字符串里的单词/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/172.阶乘后的0/172.阶乘后的0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/172.阶乘后的0/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/173.二叉搜索树迭代器/173.二叉搜索树迭代器.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/173.二叉搜索树迭代器/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/188.买卖股票的最佳时机IV/188.买卖股票的最佳时机IV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/188.买卖股票的最佳时机IV/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289.生命游戏/289.生命游戏.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/289.生命游戏/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/309.最佳买卖股票时机含冷冻期/309.最佳买卖股票时机含冷冻期.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/309.最佳买卖股票时机含冷冻期/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/56.合并区间/56.合并区间.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/56.合并区间/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/714.买卖股票的最佳时机含手续费/714.买卖股票的最佳时机含手续费.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/714.买卖股票的最佳时机含手续费/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42.接雨水/42.接雨水.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42.接雨水/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -118,7 +98,7 @@
       <recent name="X:\LeetCodeEveryDay\13.罗马数字转整数" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Self.生成矩阵" />
@@ -133,9 +113,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="37.解数独" />
+      <module name="42.接雨水" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -266,14 +246,8 @@
       <workItem from="1572151365763" duration="1171000" />
       <workItem from="1572606210569" duration="844000" />
       <workItem from="1574344254125" duration="14052000" />
-      <workItem from="1585991302758" duration="797000" />
-    </task>
-    <task id="LOCAL-00082" summary="LeetCodeEveryday">
-      <created>1566053166969</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1566053166969</updated>
+      <workItem from="1585991302758" duration="2101000" />
+      <workItem from="1586002819522" duration="2035000" />
     </task>
     <task id="LOCAL-00083" summary="LeetCodeEveryday">
       <created>1566057220624</created>
@@ -611,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574492104359</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="LeetCodeEveryday">
+      <created>1585992111895</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1585992111896</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -658,17 +639,49 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="104" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585992108076" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1586013953016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1586013953016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1586013953015">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586013953015" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1586013953016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586013953016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1586013953016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1586013953016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1586013953016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1585991501663">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585991501663" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1585992089050">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1585992136431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585992089050" />
-    <state x="28" y="0" key="new project wizard" timestamp="1585991959185">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585992136431" />
+    <state x="28" y="0" key="new project wizard" timestamp="1585993122902">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585991959185" />
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585993122902" />
   </component>
 </project>
