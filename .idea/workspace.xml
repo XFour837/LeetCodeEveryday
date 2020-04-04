@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/53.最大自序和/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/122.买卖股票的最佳时机ii/122.买卖股票的最佳时机ii.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/122.买卖股票的最佳时机ii/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123.买卖股票的最佳时机iii/123.买卖股票的最佳时机iii.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123.买卖股票的最佳时机iii/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/151.翻转字符串里的单词/151.翻转字符串里的单词.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/151.翻转字符串里的单词/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/172.阶乘后的0/172.阶乘后的0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/172.阶乘后的0/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/173.二叉搜索树迭代器/173.二叉搜索树迭代器.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/173.二叉搜索树迭代器/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/188.买卖股票的最佳时机IV/188.买卖股票的最佳时机IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/188.买卖股票的最佳时机IV/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/289.生命游戏/289.生命游戏.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/289.生命游戏/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/309.最佳买卖股票时机含冷冻期/309.最佳买卖股票时机含冷冻期.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/309.最佳买卖股票时机含冷冻期/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56.合并区间/56.合并区间.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56.合并区间/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/714.买卖股票的最佳时机含手续费/714.买卖股票的最佳时机含手续费.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/714.买卖股票的最佳时机含手续费/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51.最大子序和/src/Solution.java" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +81,17 @@
     <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="2" id="Remove" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/188.买卖股票的最佳时机IV/src/Solution.java&#10;D:/myself/javaProject/LeetCodeEveryday/173.二叉搜索树迭代器/src/Solution.java&#10;D:/myself/javaProject/LeetCodeEveryday/123.买卖股票的最佳时机iii/src/Solution.java" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../随便写写的JAVA/191027xunwu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/173.二叉搜索树迭代器/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,25 +107,16 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myself\javaProject\LeetCodeEveryday\173.二叉搜索树迭代器\src" />
+      <recent name="D:\myself\javaProject\LeetCodeEveryday" />
       <recent name="X:\LeetCodeEveryDay\15.三数之和" />
       <recent name="X:\LeetCodeEveryDay\14.最长公共前缀" />
       <recent name="X:\LeetCodeEveryDay\13.罗马数字转整数" />
-      <recent name="X:\LeetCodeEveryDay\12.整数转罗马数字" />
-      <recent name="X:\LeetCodeEveryDay\11.盛水最多的容器" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -149,13 +165,15 @@
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand />
-          <select />
-        </treeState>
-      </serviceView>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -248,6 +266,7 @@
       <workItem from="1572151365763" duration="1171000" />
       <workItem from="1572606210569" duration="844000" />
       <workItem from="1574344254125" duration="14052000" />
+      <workItem from="1585991302758" duration="797000" />
     </task>
     <task id="LOCAL-00082" summary="LeetCodeEveryday">
       <created>1566053166969</created>
@@ -629,5 +648,27 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="LeetCodeEveryday" />
     <option name="LAST_COMMIT_MESSAGE" value="LeetCodeEveryday" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585991307501">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1585991307501" />
+    <state x="104" y="0" key="CommitChangelistDialog2" timestamp="1585992108076">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="104" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585992108076" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1585991501663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585991501663" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1585992089050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585992089050" />
+    <state x="28" y="0" key="new project wizard" timestamp="1585991959185">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585991959185" />
   </component>
 </project>
