@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/42.接雨水/42.接雨水.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42.接雨水/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/460.LRUCache/460.LRUCache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/460.LRUCache/src/LFUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -247,14 +247,7 @@
       <workItem from="1572606210569" duration="844000" />
       <workItem from="1574344254125" duration="14052000" />
       <workItem from="1585991302758" duration="2101000" />
-      <workItem from="1586002819522" duration="2035000" />
-    </task>
-    <task id="LOCAL-00083" summary="LeetCodeEveryday">
-      <created>1566057220624</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1566057220624</updated>
+      <workItem from="1586002819522" duration="7782000" />
     </task>
     <task id="LOCAL-00084" summary="LeetCodeEveryday">
       <created>1566235802520</created>
@@ -592,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585992111896</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="LeetCodeEveryday">
+      <created>1586014718340</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1586014718341</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,14 +631,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="LeetCodeEveryday" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="595" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1586074473583">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586066807513" />
+    <state x="595" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1707.920@0.0.1707.920" timestamp="1586074473583" />
     <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585991307501">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1585991307501" />
-    <state x="104" y="0" key="CommitChangelistDialog2" timestamp="1585992108076">
+    <state x="104" y="0" key="CommitChangelistDialog2" timestamp="1586014715982">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="104" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585992108076" />
+    <state x="104" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1586014715982" />
     <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1586013953016">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -675,13 +680,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585991501663" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1585992136431">
+    <state x="575" y="202" width="576" height="524" key="StructurePopup" timestamp="1586073735717">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="575" y="202" width="576" height="524" key="StructurePopup/0.0.1707.920@0.0.1707.920" timestamp="1586073735717" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1586014720779">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585992136431" />
-    <state x="28" y="0" key="new project wizard" timestamp="1585993122902">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1586014720779" />
+    <state x="534" y="61" width="638" height="798" key="find.popup" timestamp="1586073670137">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="534" y="61" width="638" height="798" key="find.popup/0.0.1707.920@0.0.1707.920" timestamp="1586073670137" />
+    <state x="28" y="0" key="new project wizard" timestamp="1586066357405">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585993122902" />
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586066357405" />
   </component>
 </project>
