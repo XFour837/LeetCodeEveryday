@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/460.LRUCache/460.LRUCache.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/460.LRUCache/src/LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.四数之和/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48.旋转图像/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,16 +62,17 @@
     <ConfirmationsSetting value="2" id="Remove" />
   </component>
   <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/188.买卖股票的最佳时机IV/src/Solution.java&#10;D:/myself/javaProject/LeetCodeEveryday/173.二叉搜索树迭代器/src/Solution.java&#10;D:/myself/javaProject/LeetCodeEveryday/123.买卖股票的最佳时机iii/src/Solution.java" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/173.二叉搜索树迭代器/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,18 +88,15 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\myself\javaProject\LeetCodeEveryday\173.二叉搜索树迭代器\src" />
-      <recent name="D:\myself\javaProject\LeetCodeEveryday" />
       <recent name="X:\LeetCodeEveryDay\15.三数之和" />
       <recent name="X:\LeetCodeEveryDay\14.最长公共前缀" />
       <recent name="X:\LeetCodeEveryDay\13.罗马数字转整数" />
+      <recent name="X:\LeetCodeEveryDay\12.整数转罗马数字" />
+      <recent name="X:\LeetCodeEveryDay\11.盛水最多的容器" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Self.生成矩阵" />
@@ -113,9 +111,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="42.接雨水" />
+      <module name="37.解数独" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -245,9 +243,16 @@
       <workItem from="1572011036577" duration="1771000" />
       <workItem from="1572151365763" duration="1171000" />
       <workItem from="1572606210569" duration="844000" />
-      <workItem from="1574344254125" duration="14052000" />
-      <workItem from="1585991302758" duration="2101000" />
-      <workItem from="1586002819522" duration="7782000" />
+      <workItem from="1574344254125" duration="17289000" />
+      <workItem from="1574661021143" duration="3565000" />
+      <workItem from="1575172924194" duration="1709000" />
+    </task>
+    <task id="LOCAL-00083" summary="LeetCodeEveryday">
+      <created>1566057220624</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1566057220624</updated>
     </task>
     <task id="LOCAL-00084" summary="LeetCodeEveryday">
       <created>1566235802520</created>
@@ -579,20 +584,13 @@
       <updated>1574492104359</updated>
     </task>
     <task id="LOCAL-00131" summary="LeetCodeEveryday">
-      <created>1585992111895</created>
+      <created>1574502196994</created>
       <option name="number" value="00131" />
       <option name="presentableId" value="LOCAL-00131" />
       <option name="project" value="LOCAL" />
-      <updated>1585992111896</updated>
+      <updated>1574502196994</updated>
     </task>
-    <task id="LOCAL-00132" summary="LeetCodeEveryday">
-      <created>1586014718340</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1586014718341</updated>
-    </task>
-    <option name="localTasksCounter" value="133" />
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,70 +629,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="LeetCodeEveryday" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="595" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1586074473583">
-      <screen x="0" y="0" width="1707" height="920" />
+    <state x="733" y="271" key="MultipleFileMergeDialog" timestamp="1586149258686">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586066807513" />
-    <state x="595" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1707.920@0.0.1707.920" timestamp="1586074473583" />
-    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585991307501">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="733" y="271" key="MultipleFileMergeDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1586149258686" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1586149274165">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1585991307501" />
-    <state x="104" y="0" key="CommitChangelistDialog2" timestamp="1586014715982">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1586149274165" />
+    <state x="794" y="268" key="git4idea.branch.GitSmartOperationDialog" timestamp="1586149237255">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="104" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1586014715982" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1586013953016">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="794" y="268" key="git4idea.branch.GitSmartOperationDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1586149237255" />
+    <state x="702" y="346" key="git4idea.merge.GitPullDialog" timestamp="1586149187261">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1586013953016">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1586013953015">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586013953015" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1586013953016">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586013953016">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1586013953016">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1586013953016">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1586013953016">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586013953016" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1585991501663">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585991501663" />
-    <state x="575" y="202" width="576" height="524" key="StructurePopup" timestamp="1586073735717">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="575" y="202" width="576" height="524" key="StructurePopup/0.0.1707.920@0.0.1707.920" timestamp="1586073735717" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1586014720779">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1586014720779" />
-    <state x="534" y="61" width="638" height="798" key="find.popup" timestamp="1586073670137">
-      <screen x="0" y="0" width="1707" height="920" />
-    </state>
-    <state x="534" y="61" width="638" height="798" key="find.popup/0.0.1707.920@0.0.1707.920" timestamp="1586073670137" />
-    <state x="28" y="0" key="new project wizard" timestamp="1586066357405">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586066357405" />
+    <state x="702" y="346" key="git4idea.merge.GitPullDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1586149187261" />
   </component>
 </project>
