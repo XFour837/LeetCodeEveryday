@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea3a6c8-b47a-4b84-a0d9-b91f5a058c9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MS.01.07.旋转矩阵/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.2.三数之和/15.2.三数之和.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.2.三数之和/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/150.2.逆波兰表达式求值/150.2.逆波兰表达式求值.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/150.2.逆波兰表达式求值/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.2.K个一组翻转链表/25.2.K个一组翻转链表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.2.K个一组翻转链表/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31.下一个排列/31.下一个排列.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31.下一个排列/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/347.2.前K个高频元素/347.2.前K个高频元素.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/347.2.前K个高频元素/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56.2.合并区间/56.2.合并区间.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56.2.合并区间/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/674.最长连续递增子序列/674.最长连续递增子序列.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/674.最长连续递增子序列/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/678.有效的括号字符串/678.有效的括号字符串.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/678.有效的括号字符串/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88.合并两个有序数组/88.合并两个有序数组.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88.合并两个有序数组/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.10.02.变位词组/MS.10.02.变位词组.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.10.02.变位词组/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.11.旋转数组的最小数字/MS.11.旋转数组的最小数字.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.11.旋转数组的最小数字/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.11.旋转数组的最小数字/src/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.13.机器人的运动范围/MS.13.机器人的运动范围.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.13.机器人的运动范围/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.17.14.最小K个数[快排]/MS.17.14.最小K个数[快排].iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.17.14.最小K个数[快排]/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.53-ii.0~n-1中缺失的数字/MS.53-ii.0~n-1中缺失的数字.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS.53-ii.0~n-1中缺失的数字/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self.初始化堆/Self.初始化堆.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self.初始化堆/src/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Self.初始化堆/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -27,9 +58,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="LeetCode" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,7 +91,6 @@
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -71,7 +98,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../慕课网/coding-207" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,7 +122,21 @@
       <recent name="X:\LeetCodeEveryDay\11.盛水最多的容器" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Self.初始化堆" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="678.有效的括号字符串" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="556.下一个更大元素iii" />
@@ -103,23 +144,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
+      <module name="MS.11.旋转数组的最小数字" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -214,14 +253,13 @@
       <workItem from="1574661021143" duration="3565000" />
       <workItem from="1575172924194" duration="1709000" />
       <workItem from="1586149157955" duration="4564000" />
-      <workItem from="1586165197516" duration="3294000" />
-    </task>
-    <task id="LOCAL-00085" summary="LeetCodeEveryday">
-      <created>1566236541037</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1566236541037</updated>
+      <workItem from="1586165197516" duration="4318000" />
+      <workItem from="1586257086589" duration="88000" />
+      <workItem from="1586257285363" duration="630000" />
+      <workItem from="1586335963297" duration="3217000" />
+      <workItem from="1586514447618" duration="1743000" />
+      <workItem from="1586579782978" duration="2113000" />
+      <workItem from="1586686075903" duration="18837000" />
     </task>
     <task id="LOCAL-00086" summary="LeetCodeEveryday">
       <created>1566309594460</created>
@@ -559,20 +597,25 @@
       <option name="project" value="LOCAL" />
       <updated>1586150837257</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="LeetCodeEveryday">
+      <created>1586254945569</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1586254945569</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -591,6 +634,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -606,42 +650,46 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1586167191405" />
-    <state x="628" y="149" key="CommitChangelistDialog2" timestamp="1586150824493">
+    <state x="628" y="149" key="CommitChangelistDialog2" timestamp="1586254941587">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="628" y="149" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1586150824493" />
-    <state width="2005" height="314" key="GridCell.Tab.0.bottom" timestamp="1586253393225">
+    <state x="628" y="149" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1586254941587" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1586689521382">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="314" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1586253393224" />
-    <state width="2005" height="314" key="GridCell.Tab.0.center" timestamp="1586253393224">
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1586689521382" />
+    <state width="2005" height="439" key="GridCell.Tab.0.bottom" timestamp="1586691061284">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="314" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1586253393224" />
-    <state width="2005" height="314" key="GridCell.Tab.0.left" timestamp="1586253393223">
+    <state width="2005" height="439" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1586691061284" />
+    <state width="2005" height="439" key="GridCell.Tab.0.center" timestamp="1586691061284">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="314" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1586253393223" />
-    <state width="2005" height="314" key="GridCell.Tab.0.right" timestamp="1586253393224">
+    <state width="2005" height="439" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1586691061284" />
+    <state width="2005" height="439" key="GridCell.Tab.0.left" timestamp="1586691061284">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="314" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1586253393224" />
-    <state width="2005" height="314" key="GridCell.Tab.1.bottom" timestamp="1586253393225">
+    <state width="2005" height="439" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1586691061284" />
+    <state width="2005" height="439" key="GridCell.Tab.0.right" timestamp="1586691061284">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="314" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1586253393225" />
-    <state width="2005" height="314" key="GridCell.Tab.1.center" timestamp="1586253393225">
+    <state width="2005" height="439" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1586691061284" />
+    <state width="2005" height="314" key="GridCell.Tab.1.bottom" timestamp="1586691052968">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="314" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1586253393225" />
-    <state width="2005" height="314" key="GridCell.Tab.1.left" timestamp="1586253393225">
+    <state width="2005" height="314" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1586691052968" />
+    <state width="2005" height="314" key="GridCell.Tab.1.center" timestamp="1586691052968">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="314" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1586253393225" />
-    <state width="2005" height="314" key="GridCell.Tab.1.right" timestamp="1586253393225">
+    <state width="2005" height="314" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1586691052968" />
+    <state width="2005" height="314" key="GridCell.Tab.1.left" timestamp="1586691052968">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="314" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1586253393225" />
+    <state width="2005" height="314" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1586691052968" />
+    <state width="2005" height="314" key="GridCell.Tab.1.right" timestamp="1586691052968">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="314" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1586691052968" />
     <state x="733" y="271" key="MultipleFileMergeDialog" timestamp="1586149258686">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -650,10 +698,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="505" y="131" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1586167095711" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1586150839074">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1586254947623">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1586150839074" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1586254947623" />
     <state x="703" y="164" width="642" height="783" key="find.popup" timestamp="1586166949057">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -666,10 +714,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="702" y="346" key="git4idea.merge.GitPullDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1586149187261" />
-    <state x="434" y="166" key="new project wizard" timestamp="1586254821143">
+    <state x="434" y="166" key="new project wizard" timestamp="1586705115713">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="434" y="166" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1586254821143" />
+    <state x="434" y="166" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1586705115713" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1586166954495">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
